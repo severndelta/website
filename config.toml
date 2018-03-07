@@ -1,0 +1,8 @@
+baseURL = "https://severndelta.netlify.com/"
+languageCode = "en-gb"
+title = "Severn Delta Limited"
+
+[params.header]
+    title = "Severn Delta"
+    info = "Creator of Consumer Products"
+    copyright = "2018 Severn Delta Limited"

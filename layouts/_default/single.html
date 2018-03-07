@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<div class="container">
+  <h2>{{ .Title }}</h2>
+  <div class="row">
+      <div class="col-md-5">
+          {{ .Content }}
+      </div>
+      <div class="col-md-7">
+          {{ with .Page.Params.hero_image }}
+          <img src="{{ . }}" class="img-resonsive">
+          {{ end }}
+      </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}
