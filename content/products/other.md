@@ -1,5 +1,5 @@
 +++
-title = "Other"
+title = "Specialist Wet Wipes"
 date = 2018-03-06T14:21:32Z
 weight = 60
 featured_image = "/images/fa_other.png"

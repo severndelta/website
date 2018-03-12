@@ -1,7 +1,7 @@
 +++
 title = "Laundry"
 date = 2018-03-06T14:10:53Z
-weight = 20
+weight = 10
 featured_image = "/images/fa_laundry.png"
 hero_image = "/images/hero_laundry.png"
 +++
