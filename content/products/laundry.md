@@ -10,7 +10,7 @@ Severn Delta is the leading supplier of tumble dryer sheets and laundry aid shee
 <!--more-->
 Our range of wipes includes:
 
-* Tumble Dryer sheets with a range of fragrances
+* Tumble Dryer sheets with a range of fragrances to suit
 * Laundry Colour run sheets
 * Laundry Whitener sheets
 * Stain Removal wipes
