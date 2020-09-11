@@ -8,6 +8,6 @@ As a specialist manufacturer of fast moving consumer products we are always look
 #### Contact information
 * **Postal Address:** Severn Delta Limited, Showground Road, Bridgwater, Somerset, TA6 6AJ
 * **Switchboard:** 01278 428200
-* **Email:** jobs@severndelta.co.uk
+* **Email:** hr@severndelta.co.uk
 
 At present we have the following positions available.
