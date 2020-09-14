@@ -6,3 +6,6 @@ title = "Severn Delta Limited"
     title = "Severn Delta"
     info = "Creator of Consumer Products"
     copyright = "2020 Severn Delta Limited"
+
+[markup.goldmark.renderer]
+      unsafe = true

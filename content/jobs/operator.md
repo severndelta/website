@@ -9,8 +9,10 @@ draft = false
 We currently have several vacancies for Production Operators.
 
 <!--more-->
+<details>
+<summary style="font-size:2rem;">Operator Two-Shift</summary>
 
-### Operator Two-Shift
+#### Shift pattern and rates:
 
 Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 
@@ -34,3 +36,4 @@ Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 
 - Comprehensive training programme
 - Good progression opportunities including technical advancement where appropriate
+</details>
