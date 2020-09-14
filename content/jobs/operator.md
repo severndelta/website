@@ -2,7 +2,7 @@
 title = "Production"
 date = 2018-03-06T14:11:15Z
 weight = 10
-featured_image = "/images/user.jpg"
+featured_image = "/images/user.png"
 draft = false
 +++
 
