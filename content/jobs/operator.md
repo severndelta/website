@@ -12,6 +12,8 @@ We currently have several vacancies for Production Operators.
 <details>
 <summary style="font-size:2rem;">Operator Two-Shift</summary>
 
+<br>
+
 #### Shift pattern and rates:
 
 Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday

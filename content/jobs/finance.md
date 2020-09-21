@@ -14,6 +14,8 @@ Vacancies within our finance and IT department.
 <details>
 <summary style="font-size:2rem;"> Developer/System Administrator</summary>
 
+<br>
+
 #### Person Spec
 
 The person we are looking for won't have all the technical experience listed below but must tick at least some of the boxes. As a start point they must have a passion for Open Source Software and all things Linux. Past exposure to some of the following will be needed:
