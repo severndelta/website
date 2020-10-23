@@ -45,3 +45,9 @@ In addition, there are current projects aimed at improving our systems in the fo
 * Backup and system resilience - a complete review of data security and disaster recovery needs to be undertaken in Q4 2020;
 * Work from home (WFH) - move towards a 'cloud' based environment to support WFH for office staff where required. This process has already started but needs to be accelerated over the next 6 months;
 </details>
+<hr>
+
+#### Contact information
+* **Postal Address:** Severn Delta Limited, Showground Road, Bridgwater, Somerset, TA6 6AJ
+* **Telephone (main switchboard):** 01278 428200
+* **Email:** hr@severndelta.co.uk

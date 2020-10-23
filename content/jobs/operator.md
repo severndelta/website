@@ -72,3 +72,9 @@ Night shift (10pm-6.15am) Sunday to Thursday
 - Comprehensive training programme
 - Good progression opportunities including technical advancement where appropriate
 </details>
+<hr>
+
+#### Contact information
+* **Postal Address:** Severn Delta Limited, Showground Road, Bridgwater, Somerset, TA6 6AJ
+* **Telephone (main switchboard):** 01278 428200
+* **Email:** hr@severndelta.co.uk

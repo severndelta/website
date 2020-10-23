@@ -45,3 +45,9 @@ The job holder will have the following day to day responsibilities:
 * Contribute to new product development projects and improvements in the factory;
 * General facilities maintenance 
 </details>
+<hr>
+
+#### Contact information
+* **Postal Address:** Severn Delta Limited, Showground Road, Bridgwater, Somerset, TA6 6AJ
+* **Telephone (main switchboard):** 01278 428200
+* **Email:** hr@severndelta.co.uk
