@@ -3,10 +3,10 @@ title = "Production"
 date = 2018-03-06T14:11:15Z
 weight = 10
 featured_image = "/images/user.png"
-draft = true
+draft = false
 +++
 
-We currently have several vacancies for Production Operators.
+We currently have several vacancies for Production Operators plus a cleaner postion.
 
 <!--more-->
 <details>
@@ -43,26 +43,24 @@ Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 <hr>
 
 <details>
-<summary style="font-size:2rem;">Operator Permanent Night-Shift</summary>
+<summary style="font-size:2rem;">Cleaner</summary>
 
 <br>
 
 #### Shift pattern and rates:
 
-Night shift (10pm-6.15am) Sunday to Thursday
+Days - flexible hours (minimum of 30) per week Monday to Friday
 
-**£9.72 per hour starting rate, increases to £10.80 after probation & full training**
+**£8.91 per hour (National Living Wage)**
 
 #### Main duties:
 
-- Running of production machines producing wet wipes and laundry sheets
-- Operating, monitoring, controlling and cleaning all plant and associated equipment
-- Packing and manual handling as required
-- Working in an accurate, efficient and cost-effective manner in order to meet production schedules
+- Office and rest area cleaning
+- Production area cleaning and waste disposal
+- Proactive maintenance of high cleanliness standards in 'clean room' work areas
 
 #### Requirements:
 
-- Experience in machine operating desirable
 - Enthusiastic and willing to learn
 - Attention to detail
 - Referenceable work history
@@ -70,13 +68,13 @@ Night shift (10pm-6.15am) Sunday to Thursday
 #### Benefits:
 
 - Comprehensive training programme
-- Good progression opportunities including technical advancement where appropriate
+- Good progression opportunities into a production role where appropriate
 </details>
 <hr>
 
 #### Contact information
 
-**_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format), will be rejected by our email system._**
+**_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format), may be rejected by our email system._**
 
 If you are interested in any of the jobs listed, please contact us using the details below.
 

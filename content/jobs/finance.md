@@ -3,13 +3,11 @@ title = "Finance & IT"
 date = 2018-03-06T14:11:15Z
 weight = 50
 featured_image = "/images/user.png"
-draft = true
+draft = false
 +++
 
 Vacancies within our finance and IT department.
 <!--more-->
-
-
 
 <details>
 <summary style="font-size:2rem;"> Developer/System Administrator</summary>
@@ -42,14 +40,14 @@ In addition, there are current projects aimed at improving our systems in the fo
 
 * Shop floor time booking - implement a new system to integrate with uzERP enterprise resource planning system;
 * On-line presence - integration of web sales into uzERP;
-* Backup and system resilience - a complete review of data security and disaster recovery needs to be undertaken in Q4 2020;
-* Work from home (WFH) - move towards a 'cloud' based environment to support WFH for office staff where required. This process has already started but needs to be accelerated over the next 6 months;
+* Backup and system resilience - a complete review of data security and disaster recovery needs to be undertaken in Q4 2021;
+* Move towards a 'cloud' based environment - this process has already started but needs to be accelerated over the next 6-12 months;
 </details>
 <hr>
 
 #### Contact information
 
-**_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format) will be rejected by our email system._**
+**_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format) may be rejected by our email system._**
 
 If you are interested in any of the jobs listed, please contact us using the details below.
 
