@@ -18,7 +18,7 @@ We currently have several vacancies for Production Operators plus a cleaner post
 
 Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 
-**£8.72 per hour starting rate, increases to £9.80 after probation & full training**
+**£8.91 (NLW) per hour starting rate, increases to £9.80 after probation & full training**
 
 #### Main duties:
 
