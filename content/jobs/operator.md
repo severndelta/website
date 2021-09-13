@@ -42,36 +42,6 @@ Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 
 <hr>
 
-<details>
-<summary style="font-size:2rem;">Cleaner</summary>
-
-<br>
-
-#### Shift pattern and rates:
-
-Days - flexible hours (minimum of 30) per week Monday to Friday
-
-**£8.91 per hour (National Living Wage)**
-
-#### Main duties:
-
-- Office and rest area cleaning
-- Production area cleaning and waste disposal
-- Proactive maintenance of high cleanliness standards in 'clean room' work areas
-
-#### Requirements:
-
-- Enthusiastic and willing to learn
-- Attention to detail
-- Referenceable work history
-
-#### Benefits:
-
-- Comprehensive training programme
-- Good progression opportunities into a production role where appropriate
-</details>
-<hr>
-
 #### Contact information
 
 **_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format), may be rejected by our email system._**
