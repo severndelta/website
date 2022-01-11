@@ -18,9 +18,8 @@ We currently have several vacancies for Production Operators working a two-shift
 
 Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 
-**£9.80 per hour starting rate = £367.50 per week**
+**£10.80/hr  = £21,060 per annum**
 
-**NOTE - pay award announced so from 1st January 2022 the rate increases to £10.80 per hour/£405 per week**
 #### Main duties:
 
 - Running of production machines producing wet wipes and laundry sheets
