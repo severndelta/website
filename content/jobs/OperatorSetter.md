@@ -6,7 +6,7 @@ featured_image = "/images/user.png"
 draft = false
 +++
 
-Operator Setter jobs.
+We currently have a vacancy for a Operator Setter job working a two-shift pattern.
 <!--more-->
 
 <details>
