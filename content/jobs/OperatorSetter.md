@@ -3,7 +3,7 @@ title = "Operator Setter"
 date = 2018-03-06T14:11:15Z
 weight = 30
 featured_image = "/images/user.png"
-draft = true
+draft = false
 +++
 
 Operator Setter jobs.
