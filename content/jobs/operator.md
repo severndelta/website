@@ -3,10 +3,10 @@ title = "Production"
 date = 2018-03-06T14:11:15Z
 weight = 10
 featured_image = "/images/user.png"
-draft = true
+draft = false
 +++
 
-We currently have several vacancies for Production Operators working a two-shift pattern.
+We currently have vacancies for Production Operators working a two-shift pattern.
 
 <!--more-->
 <details>
@@ -22,14 +22,14 @@ Rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
 
 #### Main duties:
 
-- Running of production machines producing wet wipes and laundry sheets
-- Operating, monitoring, controlling and cleaning all plant and associated equipment
-- Packing and manual handling as required
-- Working in an accurate, efficient and cost-effective manner in order to meet production schedules
+- Running of production machines producing wet wipes and laundry sheets.
+- Operating, monitoring, controlling and cleaning all plant and associated equipment.
+- Packing and manual handling as required.
+- Working in an accurate, efficient and cost-effective manner in order to meet production schedules.
 
 #### Requirements:
 
-- Experience in machine operating desirable
+- Experience in machine operating is desirable
 - Enthusiastic and willing to learn
 - Attention to detail
 - Referenceable work history
