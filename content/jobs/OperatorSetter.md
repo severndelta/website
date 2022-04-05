@@ -1,22 +1,22 @@
 +++
-title = "Operator Setter"
+title = "Operator Afternoon Shift Only"
 date = 2018-03-06T14:11:15Z
 weight = 30
 featured_image = "/images/user.png"
-draft = true
+draft = false
 +++
 
-We currently have a vacancy for a Operator Setter working a two-shift pattern.
+We currently have a vacancy for a Operator working the afternoon shift only.
 <!--more-->
 
 <details>
-<summary style="font-size:2rem;"> Operator Setter </summary>
+<summary style="font-size:2rem;"> Operator (Afternoon Shift Only) </summary>
 
 <br>
 
 #### Shift pattern and pay:
 
-**Pattern** - rotating shifts (6am-2.15pm / 2.00-10:15pm) Monday to Friday
+**Pattern** - (2:00pm-10:15pm) Monday to Friday
 
 **Salary** - £12.569/hr  = £24,510 per annum
 
