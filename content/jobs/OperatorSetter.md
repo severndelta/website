@@ -18,32 +18,21 @@ We currently have a vacancy for a Operator working the afternoon shift only.
 
 **Pattern** - (2:00pm-10:15pm) Monday to Friday
 
-**Salary** - £12.569/hr  = £24,510 per annum
+**£10.80/hr  = £21,060 per annum**
 
+#### Main duties:
 
-#### Person Spec
+- Running of production machines producing wet wipes and laundry sheets.
+- Operating, monitoring, controlling and cleaning all plant and associated equipment.
+- Packing and manual handling as required.
+- Working in an accurate, efficient and cost-effective manner in order to meet production schedules.
 
-The person we a looking for will have the following attributes:
+#### Requirements:
 
-* Experience in machine operating essential
-* Enthusiastic and willing to learn
-* Attention to detail
-* Referenceable work history
-
-#### Main duties
-
-The job holder will have the following day to day responsibilities:
-
-* Responsibility for leading changeovers
-* Minor repairs
-* Replacing and setting of change parts
-* Key role to increase OEE and production capacity by reducing downtime
-* Running of production machines producing wet wipes and laundry sheets
-* Operating, monitoring, controlling and cleaning all plant and associated equipment
-* Packing and manual handling as required
-* Working in an accurate, efficient and cost-effective manner in order to meet production schedules
-</details>
-<hr>
+- Experience in machine operating is desirable
+- Enthusiastic and willing to learn
+- Attention to detail
+- Referenceable work history
 
 #### Contact information
 
