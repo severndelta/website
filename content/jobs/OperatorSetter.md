@@ -33,6 +33,8 @@ We currently have a vacancy for a Operator working the afternoon shift only.
 - Enthusiastic and willing to learn
 - Attention to detail
 - Referenceable work history
+  
+  <hr>
 
 #### Contact information
 
