@@ -33,12 +33,18 @@ We currently have a vacancy for a Operator working the afternoon shift only.
 - Enthusiastic and willing to learn
 - Attention to detail
 - Referenceable work history
-  
-  <hr>
+
+#### Benefits:
+
+- Comprehensive training programme
+- Good progression opportunities including technical advancement where appropriate
+</details>
+
+<hr>
 
 #### Contact information
 
-**_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format) may be rejected by our email system._**
+**_Note: Please send any emails in plain text (not HTML) with CV attachments in PDF format. Emails in any other format, with editable documents (especially in docx format), may be rejected by our email system._**
 
 If you are interested in any of the jobs listed, please contact us using the details below.
 
