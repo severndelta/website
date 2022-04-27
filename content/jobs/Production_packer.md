@@ -33,7 +33,6 @@ We currently have a vacancy for a production packer working Monday to Thursday.
 
 #### Benefits:
 
-- Comprehensive training programme
 - Good progression opportunities including technical advancement where appropriate
 </details>
 
