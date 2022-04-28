@@ -1,6 +1,6 @@
 +++
 title = "Operator Day Time Shift"
-date = 2018-03-06T14:11:15Z
+date = 2022-04-06T14:11:15Z
 weight = 10
 featured_image = "/images/user.png"
 draft = false
@@ -10,7 +10,7 @@ We currently have vacancies for Production Operators working a day time shift.
 
 <!--more-->
 <details>
-<summary style="font-size:2rem;">Operator Day Time Shift</summary>
+<summary style="font-size:2rem;">More Information</summary>
 
 <br>
 
