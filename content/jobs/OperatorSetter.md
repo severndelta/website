@@ -10,7 +10,7 @@ We currently have a vacancy for a Operator working the afternoon shift only.
 <!--more-->
 
 <details>
-<summary style="font-size:2rem;"> Operator (Afternoon Shift Only) </summary>
+<summary style="font-size:2rem;"> More Information </summary>
 
 <br>
 
