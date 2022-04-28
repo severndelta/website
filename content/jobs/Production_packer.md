@@ -1,6 +1,6 @@
 +++
 title = "Production Packer"
-date = 2021-04-06T14:11:15Z
+date = 2022-04-06T14:11:15Z
 weight = 30
 featured_image = "/images/user.png"
 draft = false
@@ -10,7 +10,7 @@ We currently have a vacancy for a production packer working Monday to Thursday.
 <!--more-->
 
 <details>
-<summary style="font-size:2rem;"> Production Packer </summary>
+<summary style="font-size:2rem;"> More Information </summary>
 
 <br>
 
