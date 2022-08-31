@@ -3,7 +3,7 @@ title = "Operator Afternoon Shift Only"
 date = 2018-03-06T14:11:15Z
 weight = 30
 featured_image = "/images/user.png"
-draft = false
+draft = true
 +++
 
 We currently have a vacancy for a Operator working the afternoon shift only.
