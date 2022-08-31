@@ -1,12 +1,12 @@
 +++
-title = "Operator Day Time Shift"
+title = "Operator 12hr Days"
 date = 2022-04-06T14:11:15Z
 weight = 10
 featured_image = "/images/user.png"
 draft = false
 +++
 
-We currently have vacancies for Production Operators working a day time shift.
+We currently have vacancies for a Production Operators working a day time shift.
 
 <!--more-->
 <details>
@@ -16,9 +16,9 @@ We currently have vacancies for Production Operators working a day time shift.
 
 #### Shift pattern and rates:
 
-(10:00am - 18:15pm) Monday to Friday
+(10:15am - 10:15pm) 4 days/week
 
-**£10.25/hr  = £19,987.50 per annum**
+**£10.80/hr**
 
 #### Main duties:
 
