@@ -15,8 +15,8 @@ If you are interested in any of the jobs listed, please contact us using the det
 * **Telephone (main switchboard):** 01278 428200
 * **Email:** hr@severndelta.co.uk
 
-<!---#### At present we have the following positions available.... 
+#### At present there are no positions available.
 
-(Click on the department link below to see more details) -->
+<!---(Click on the department link below to see more details) -->
 
-#### Our current job vacancies are listed below:
+<!---#### Our current job vacancies are listed below:
